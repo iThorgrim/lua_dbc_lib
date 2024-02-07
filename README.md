@@ -5,6 +5,7 @@ Welcome to LuaDBC, your go-to library for reading World of Warcraft DBC files ef
 - [Introduction](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#introduction-)
 - [Getting Started](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#getting-started-)
 - [Usage](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#usage-)
+- [Todo](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#todo-)
 - [Dependencies](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#dependencies-)
 - [Contributing](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#contributing-)
 
@@ -42,6 +43,12 @@ for _, query_item in pairs(query_result) do
    print(query_item:GetClass()) 
 end
 ```
+
+# Todo 📝
+- Write to DBC: Implement the ability to write data to the end of a DBC file.
+- Delete Rows: Allow for the deletion of specific rows within a DBC file.
+- Auto-generate DBC: Explore the option of auto-generating a DBC file based on a database.
+- Update Data: Provide functionality to update existing data within DBC files.
 
 ## Dependencies 🌐
 - [LuaRocks](https://github.com/luarocks/luarocks)
