@@ -2,11 +2,11 @@
 Welcome to LuaDBC, your go-to library for reading World of Warcraft DBC files effortlessly! 🌍⚙️
 
 ## Table of Contents 📑
-- Introduction
-- Getting Started
-- Usage
-- Dependencies
-- Contributing
+- [Introduction](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#introduction-)
+- [Getting Started](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#getting-started-)
+- [Usage](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#usage-)
+- [Dependencies](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#dependencies-)
+- [Contributing](https://github.com/vaiocti/lua_dbc_lib/tree/main?tab=readme-ov-file#contributing-)
 
 ## Introduction 🌟
 LuaDBC is a Lua library designed to simplify the reading of World of Warcraft DBC files. It utilizes the power of LuaRocks with two essential modules - `lanes` and `struct`. 🛠️
