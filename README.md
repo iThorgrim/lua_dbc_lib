@@ -49,6 +49,7 @@ end
 - Delete Rows: Allow for the deletion of specific rows within a DBC file.
 - Auto-generate DBC: Explore the option of auto-generating a DBC file based on a database.
 - Update Data: Provide functionality to update existing data within DBC files.
+- Multiple Loc Columns: Enhance compatibility to read DBCs with multiple Loc columns (Loc[1-x]).
 
 ## Dependencies 🌐
 - [LuaRocks](https://github.com/luarocks/luarocks)
