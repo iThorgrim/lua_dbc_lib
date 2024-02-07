@@ -1,0 +1,4 @@
+return {
+    [1] = { field = "ID", type = "int" },
+    [2] = { field = "Path", type = "string" },
+}

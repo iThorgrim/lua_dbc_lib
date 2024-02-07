@@ -1,0 +1,10 @@
+return {
+    [1] = { field = "ID", type = "int" },
+    [2] = { field = "Class", type = "int" },
+    [3] = { field = "SubClass", type = "int" },
+    [4] = { field = "SoundOverride", type = "int" },
+    [5] = { field = "MaterialID", type = "int" },
+    [6] = { field = "DisplayInfo", type = "int" },
+    [7] = { field = "InventorySlotID", type = "int" },
+    [8] = { field = "SheathID", type = "int" }
+}
